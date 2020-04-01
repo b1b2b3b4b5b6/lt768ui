@@ -1,1 +1,2 @@
-#lt768ui
+#lt768ui框架
+放置于component文件下
